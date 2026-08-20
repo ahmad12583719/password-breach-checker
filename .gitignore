@@ -1,10 +1,10 @@
 node_modules/
 dist/
+coverage/
 .env
 .env.*
 !.env.example
-coverage/
+.manus-logs/
+.project-config.json
 *.log
 .DS_Store
-.project-config.json
-client/public/__manus__/
